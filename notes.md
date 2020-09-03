@@ -67,7 +67,7 @@ TA for Dr. Nandakumar's 422C
     - press `Enter`
     - press `n` to find next
     - press `Shift-n` (`N`) to find previous
-    - press `Enter` to stop
+  - `q` to quit
 
 ### Quick break to explain `man`
 
@@ -167,7 +167,7 @@ TA for Dr. Nandakumar's 422C
 
 ### `emacs`
 
-- I don't know much about it, but it's widely used too
+- I don't know much about it personally, but it's widely used too
 
 ## Running Programs
 
@@ -213,6 +213,9 @@ TA for Dr. Nandakumar's 422C
 - `-y` - show side-by-side
 
 ### `javac` and `java`
+
+- `javac HelloWorld.java` to compile
+- `java HelloWorld` to run
 
 ### `find`
 
